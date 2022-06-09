@@ -1092,12 +1092,12 @@ nav {
 	.wrapper .wrapper_icons {
 		position: absolute;
 		top: 120px;
-		left: 120px;
+		left: 70px;
 		margin-top: 15px;
 	}
 	.wrapper .logo img {
 		position: absolute;
-		left: -15px;
+		left: 40px;
 		top: 130px;
 		padding-bottom: 20px;
 		margin-top: 10px;
